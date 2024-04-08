@@ -1,0 +1,2 @@
+# Terchon
+A Terminal Emulator
